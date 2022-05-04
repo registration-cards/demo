@@ -4,7 +4,7 @@
 
 Product page: https://shop.meowwolf.com/merch/whale-song-deodorant/
 
-Certifications:
+Novi Connect Certifications:
 * ![Vegan Suitable](https://res.cloudinary.com/novi-connect/image/upload/f_auto/q_auto/c_fit,h_32,w_32/v1/policies/85_policy?_a=ATAABAA0) Vegan Suitable
   * All ingredients must be cruelty free (not tested on animals).
 
